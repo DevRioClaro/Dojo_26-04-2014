@@ -1,0 +1,8 @@
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\bin\Debug\DojoDevRioClaro.Console.exe.config
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\bin\Debug\DojoDevRioClaro.Console.exe
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\bin\Debug\DojoDevRioClaro.Console.pdb
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\obj\Debug\DojoDevRioClaro.Console.csprojResolveAssemblyReference.cache
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\obj\Debug\DojoDevRioClaro.Console.exe
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\obj\Debug\DojoDevRioClaro.Console.pdb
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\bin\Debug\DojoDevRioClaro.Lib.dll
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro.Console\bin\Debug\DojoDevRioClaro.Lib.pdb

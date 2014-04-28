@@ -1,0 +1,7 @@
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\obj\Debug\DojoDevRioClaro_1.csprojResolveAssemblyReference.cache
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\bin\Debug\DojoDevRioClaro_1.dll
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\bin\Debug\DojoDevRioClaro_1.pdb
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\obj\Debug\DojoDevRioClaro_1.dll
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\obj\Debug\DojoDevRioClaro_1.pdb
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\bin\Debug\DojoDevRioClaro.Lib.dll
+e:\dados\andré\documentos\visual studio 2013\Projects\DojoDevRioClaro_1\DojoDevRioClaro_1\bin\Debug\DojoDevRioClaro.Lib.pdb
